@@ -1,6 +1,6 @@
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
-
+# Table of Contents:
 
 [Vaults showing off Dataview](#Dataview)
 
