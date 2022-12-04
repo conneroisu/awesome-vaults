@@ -3,7 +3,7 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 # New to obsidian? 
 
 
-[Vault's showing off Dataview](#Dataview)
+[Vaults showing off Dataview](#Dataview)
 
 # Dataview 
 Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsidian-dataview)
