@@ -1,4 +1,5 @@
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
+Each vault will list the number of pages within them.
 
 # Table of Contents:
 
@@ -13,3 +14,4 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 
 [Meta Bind Example Vault](https://github.com/mProjectsCode/obsidian-meta-bind-plugin/tree/master/exampleVault)
 - This vault shows example of using the metabind plugin to allow the updating of metadata within fields in your notes. It allows for the binding of boolean, date, strings, and more.
+- 2 pages 
