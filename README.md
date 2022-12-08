@@ -1,6 +1,6 @@
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
-Submit a Vault using an issue, pull request, or add one to the roadmap [here](https://sharing.clickup.com/20142484/l/6-194212601-1/list)
+Submit a Vault using an issue, pull request, or see the roadmap [here](https://sharing.clickup.com/20142484/l/6-194212601-1/list)
 
 # Table of Contents:
 
