@@ -23,3 +23,7 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 
 [Reseacher Template by sheldonxxd](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher)
 - Starter Vault for researchers. Includes workflows for writing literature, reports, and more.
+
+
+[Obsidian Hub](https://github.com/obsidian-community/obsidian-hub)
+- Community Maintained Experimental Vault
