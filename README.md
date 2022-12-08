@@ -1,5 +1,5 @@
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
-Each vault will list the number of pages within them.
+
 
 # Table of Contents:
 
