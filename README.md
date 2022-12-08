@@ -29,4 +29,4 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 - Community Maintained Experimental Vault
 
 [Obsidian Vault Structure by trustedsec](https://github.com/trustedsec/Obsidian-Vault-Structure)
-A project developed with an accompanying blog post about learning obsidian.
+- A project developed with an accompanying blog post about learning obsidian.
