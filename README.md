@@ -14,4 +14,7 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 
 [Meta Bind Example Vault](https://github.com/mProjectsCode/obsidian-meta-bind-plugin/tree/master/exampleVault)
 - This vault shows example of using the metabind plugin to allow the updating of metadata within fields in your notes. It allows for the binding of boolean, date, strings, and more.
-- 2 pages 
+
+
+[The Sweet Setup](https://thesweetsetup.com/wp-content/uploads/2021/12/sweet-setup-obsidian-starter-vault.zip)
+This starter vault contains over 25 of thesweetsetup.com's best articles about Obsidian, from basic setup to recommended plugins to productivity workflows. All the notes are formatted to make the most of Obsidian’s Markdown-based features.
