@@ -17,4 +17,4 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 
 
 [The Sweet Setup](https://thesweetsetup.com/wp-content/uploads/2021/12/sweet-setup-obsidian-starter-vault.zip)
-This starter vault contains over 25 of thesweetsetup.com's best articles about Obsidian, from basic setup to recommended plugins to productivity workflows. All the notes are formatted to make the most of Obsidian’s Markdown-based features.
+- This starter vault contains over 25 of thesweetsetup.com's best articles about Obsidian, from basic setup to recommended plugins to productivity workflows. All the notes are formatted to make the most of Obsidian’s Markdown-based features.
