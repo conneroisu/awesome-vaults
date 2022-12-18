@@ -33,3 +33,7 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 
 [Bramses Highly opinionated Vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
 - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
+[A bullet Journal and Task Manager vault](https://drive.google.com/file/d/1N5IQKertzJFMpHb62SOi2Eq9wR0DV3S6/view?usp=share_link)
+
+- daily as a bullet journal and task manager. With explanations on how to the creator uses it [here](https://www.travelertechie.com/2022/12/bullet-journal-and-task-management-in.html)
+
