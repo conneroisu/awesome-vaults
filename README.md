@@ -30,3 +30,6 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 
 [Obsidian Vault Structure by trustedsec](https://github.com/trustedsec/Obsidian-Vault-Structure)
 - A project developed with an accompanying blog post about learning obsidian.
+
+[Bramses Highly opinionated Vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
+- A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
