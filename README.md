@@ -8,6 +8,7 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 
 [[#Plugin Specific Example Vaults]]
 [[#Community Created Vaults]]
+
 [plugin specific example vaults](#Plugin-Specific-Example-Vaults)
 # Plugin Specific Example Vaults
 [Dataview Queries Example Vault](https://github.com/s-blu/obsidian_dataview_example_vault)
