@@ -38,4 +38,5 @@ Vault's here show off the [Dataview Plugin](https://github.com/blacksmithgu/obsi
 - daily as a bullet journal and task manager. With explanations on how to the creator uses it [here](https://www.travelertechie.com/2022/12/bullet-journal-and-task-management-in.html)
 - ![image](https://user-images.githubusercontent.com/88785126/208286018-bfcde850-4241-4f44-a385-969584904a2a.png)
 
-
+[An Obsidian Tasks Example Vault](https://github.com/obsidian-tasks-group/obsidian-tasks/tree/main/resources/sample_vaults)
+- A Example Vault for the [Tasks Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) in Obsidian.
