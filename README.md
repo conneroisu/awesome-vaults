@@ -9,7 +9,11 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 [[#Plugin Specific Example Vaults]]
 [[#Community Created Vaults]]
 
+<<<<<<< HEAD
 [plugin specific example vaults](#Plugin-Specific-Example-Vaults)
+=======
+[plugin specific example vaults](#Plugin Specific Example Vaults)
+>>>>>>> c7abfcd14db25b0c2d6602eaa833145ad7865e0d
 # Plugin Specific Example Vaults
 [Dataview Queries Example Vault](https://github.com/s-blu/obsidian_dataview_example_vault)
 - This vault shows examples of nearly everything you can do using the dataview plugin in obsidian from progress bars, image queries, task queries, and more.
