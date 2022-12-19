@@ -1,17 +1,14 @@
 ---
 created: 2022-12-19T14:17:00-06:00
-updated: 2022-12-19T15:09:04-06:00
+updated: 2022-12-19T15:16:56-06:00
 ---
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
 # Contents:
 
-[[#Plugin Specific Example Vaults]]
-[[#Community Created Vaults]]
-
-[plugin specific example vaults](#Plugin-Specific-Example-Vaults)
-=======
-[plugin specific example vaults](#Plugin Specific Example Vaults)
+[[#Plugin Specific Example Vaults]]  [Plugin Specific Example Vaults](#Plugin-Specific-Example-Vaults) 
+[Community Created Vaults](#Community-Created-Vaults)  [[#Community Created Vaults]]
+[plugin specific example vaults](#Plugin Specific Example Vaults)  [plugin specific example vaults](#Plugin-Specific-Example-Vaults)
 
 # Plugin Specific Example Vaults
 [Dataview Queries Example Vault](https://github.com/s-blu/obsidian_dataview_example_vault)
