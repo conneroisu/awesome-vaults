@@ -1,6 +1,6 @@
 ---
 created: 2022-12-19T14:17:00-06:00
-updated: 2022-12-19T15:16:56-06:00
+updated: 2022-12-19T15:18:13-06:00
 ---
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
@@ -42,3 +42,5 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 - daily as a bullet journal and task manager. With explanations on how to the creator uses it [here](https://www.travelertechie.com/2022/12/bullet-journal-and-task-management-in.html)
 - ![image](https://user-images.githubusercontent.com/88785126/208286018-bfcde850-4241-4f44-a385-969584904a2a.png)
 
+[Vault from Rainbell](https://github.com/Rainbell129/Obsidian-Homepage/releases)
+- Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.
