@@ -1,7 +1,4 @@
----
-created: 2022-12-19T14:17:00-06:00
-updated: 2022-12-19T15:18:13-06:00
----
+
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
 # Contents:
