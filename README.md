@@ -1,6 +1,6 @@
 ---
 created: 2022-12-19T14:17:00-06:00
-updated: 2022-12-19T15:18:13-06:00
+updated: 2022-12-26T14:28:13-06:00
 ---
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
@@ -44,3 +44,7 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 
 [Vault from Rainbell](https://github.com/Rainbell129/Obsidian-Homepage/releases)
 - Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.
+
+
+[juestchaos Obsidian Plug and Play Vault](https://github.com/juestchaos/Obsidian-Plug-and-Play)
+- 
