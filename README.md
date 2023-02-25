@@ -1,8 +1,10 @@
 ---
 created: 2022-12-19T14:17:00-06:00
-updated: 2022-12-26T14:28:13-06:00
+updated: 2023-02-24T19:03:53-06:00
 ---
-This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
+This is an List of Obsidian Vaults that show off plugins, features, collections of notes, workflows, or anything else that you can think of.
+
+## [Obsidian Vault]
 
 # Contents:
 
@@ -11,8 +13,9 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 [plugin specific example vaults](#Plugin Specific Example Vaults)  [plugin specific example vaults](#Plugin-Specific-Example-Vaults)
 
 # Plugin Specific Example Vaults
+
 [Dataview Queries Example Vault](https://github.com/s-blu/obsidian_dataview_example_vault)
-- This vault shows examples of nearly everything you can do using the dataview plugin in obsidian from progress bars, image queries, task queries, and more.
+This vault shows examples of nearly everything you can do using the dataview plugin in obsidian from progress bars, image queries, task queries, and more.
 
 [An Obsidian Tasks Example Vault](https://github.com/obsidian-tasks-group/obsidian-tasks/tree/main/resources/sample_vaults)
 - A Example Vault for the [Tasks Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) in Obsidian.
@@ -22,6 +25,7 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 
 
 # Community Created Vaults
+
 [The Sweet Setup](https://thesweetsetup.com/wp-content/uploads/2021/12/sweet-setup-obsidian-starter-vault.zip)
 - This starter vault contains over 25 of thesweetsetup.com's best articles about Obsidian, from basic setup to recommended plugins to productivity workflows. All the notes are formatted to make the most of Obsidian’s Markdown-based features.
 
@@ -39,12 +43,22 @@ This is an List of Obsidian Vaults that show off plugins, features, or collectio
 - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 
 [A bullet Journal and Task Manager vault](https://drive.google.com/file/d/1N5IQKertzJFMpHb62SOi2Eq9wR0DV3S6/view?usp=share_link)
+This awesome vault is a #showcase of the creators daily bullet journal and task management vault. The creator provides in depth explanations of how they use the vault, and the vault itself is a great example of how to use Obsidian.
+
+## travelertechie
+[Obsidian Starter Vault](
 - daily as a bullet journal and task manager. With explanations on how to the creator uses it [here](https://www.travelertechie.com/2022/12/bullet-journal-and-task-management-in.html)
-- ![image](https://user-images.githubusercontent.com/88785126/208286018-bfcde850-4241-4f44-a385-969584904a2a.png)
 
+## Rainbell
+- ![image](Media/0%20-%20Inbox/eb03f6c351369edc939aae30007c0082_MD5.png)
 [Vault from Rainbell](https://github.com/Rainbell129/Obsidian-Homepage/releases)
-- Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.
+Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.(don't be deceived by his status bars, they are fake). 
 
 
+## juestchaos
 [juestchaos Obsidian Plug and Play Vault](https://github.com/juestchaos/Obsidian-Plug-and-Play)
-- 
+- A plug and play vault that includes a lot of the popular plugins, and some of the more popular templates. 
+
+[Obsidian Templates](
+
+[bencodezen/bens-obsidian-boilerplate: An opinionated kit to provide people some inspiration and ideas for their own workflows.](https://github.com/bencodezen/bens-obsidian-boilerplate)
