@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 created: 2022-12-19T14:17:00-06:00
 updated: 2023-02-24T19:12:20-06:00
@@ -5,6 +6,10 @@ updated: 2023-02-24T19:12:20-06:00
 This is an List of Obsidian Vaults that show off plugins, features, collections of notes, workflows, or anything else that you can think of.
 
 ## [Obsidian Vault]
+=======
+
+This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
+>>>>>>> 39ca22f39265e158daf1b446fa3a084806c6a02c
 
 # Contents:
 
@@ -52,6 +57,7 @@ This awesome vault is a #showcase of the creators daily bullet journal and task 
 ## Rainbell
 - ![image](Media/0%20-%20Inbox/eb03f6c351369edc939aae30007c0082_MD5.png)
 [Vault from Rainbell](https://github.com/Rainbell129/Obsidian-Homepage/releases)
+<<<<<<< HEAD
 Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.(don't be deceived by his status bars, they are fake). 
 
 
@@ -62,3 +68,6 @@ Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.(don
 [Obsidian Templates](
 
 [bencodezen/bens-obsidian-boilerplate: An opinionated kit to provide people some inspiration and ideas for their own workflows.](https://github.com/bencodezen/bens-obsidian-boilerplate)
+=======
+- Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.
+>>>>>>> 39ca22f39265e158daf1b446fa3a084806c6a02c
