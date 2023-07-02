@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 created: 2022-12-19T14:17:00-06:00
 updated: 2023-02-24T19:12:20-06:00
@@ -9,7 +8,6 @@ This is an List of Obsidian Vaults that show off plugins, features, collections 
 =======
 
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
->>>>>>> 39ca22f39265e158daf1b446fa3a084806c6a02c
 
 # Contents:
 
