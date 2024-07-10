@@ -1,11 +1,6 @@
----
-created: 2022-12-19T14:17:00-06:00
-updated: 2023-02-24T19:12:20-06:00
----
 This is an List of Obsidian Vaults that show off plugins, features, collections of notes, workflows, or anything else that you can think of.
 
-## [Obsidian Vault]
-=======
+## [Awesome Obsidian Vault]
 
 This is an List of Obsidian Vaults that show off plugins, features, or collections of Notes.
 
@@ -49,23 +44,18 @@ This vault shows examples of nearly everything you can do using the dataview plu
 This awesome vault is a #showcase of the creators daily bullet journal and task management vault. The creator provides in depth explanations of how they use the vault, and the vault itself is a great example of how to use Obsidian.
 
 ## travelertechie
-[Obsidian Starter Vault](
+[Obsidian Starter Vault](https://drive.google.com/file/d/1N5IQKertzJFMpHb62SOi2Eq9wR0DV3S6/view?usp=share_link)
 - daily as a bullet journal and task manager. With explanations on how to the creator uses it [here](https://www.travelertechie.com/2022/12/bullet-journal-and-task-management-in.html)
 
 ## Rainbell
-- ![image](Media/0%20-%20Inbox/eb03f6c351369edc939aae30007c0082_MD5.png)
 [Vault from Rainbell](https://github.com/Rainbell129/Obsidian-Homepage/releases)
-<<<<<<< HEAD
 Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.(don't be deceived by his status bars, they are fake). 
 
-
 ## juestchaos
+
 [juestchaos Obsidian Plug and Play Vault](https://github.com/juestchaos/Obsidian-Plug-and-Play)
 - A plug and play vault that includes a lot of the popular plugins, and some of the more popular templates. 
 
 [Obsidian Templates](
 
 [bencodezen/bens-obsidian-boilerplate: An opinionated kit to provide people some inspiration and ideas for their own workflows.](https://github.com/bencodezen/bens-obsidian-boilerplate)
-=======
-- Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.
->>>>>>> 39ca22f39265e158daf1b446fa3a084806c6a02c
