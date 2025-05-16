@@ -27,7 +27,6 @@ This vault shows examples of nearly everything you can do using the dataview plu
 [The Sweet Setup](https://thesweetsetup.com/wp-content/uploads/2021/12/sweet-setup-obsidian-starter-vault.zip)
 - This starter vault contains over 25 of thesweetsetup.com's best articles about Obsidian, from basic setup to recommended plugins to productivity workflows. All the notes are formatted to make the most of Obsidian’s Markdown-based features.
 
-
 [Reseacher Template by sheldonxxd](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher)
 - Starter Vault for researchers. Includes workflows for writing literature, reports, and more.
 
@@ -42,6 +41,9 @@ This vault shows examples of nearly everything you can do using the dataview plu
 
 [A bullet Journal and Task Manager vault](https://drive.google.com/file/d/1N5IQKertzJFMpHb62SOi2Eq9wR0DV3S6/view?usp=share_link)
 This awesome vault is a #showcase of the creators daily bullet journal and task management vault. The creator provides in depth explanations of how they use the vault, and the vault itself is a great example of how to use Obsidian.
+
+[basisi of ykerus's personal Obsidian vault.](https://github.com/ykerus/obsidian-templates)
+Obsidian vault with task reminders, lesson tracker, milestone tracker, habit tracker, several templates to kickstart meetings, projects, goals, and more! 🚀 
 
 ## travelertechie
 [Obsidian Starter Vault](https://drive.google.com/file/d/1N5IQKertzJFMpHb62SOi2Eq9wR0DV3S6/view?usp=share_link)
